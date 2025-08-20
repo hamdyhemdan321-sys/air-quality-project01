@@ -1,4 +1,3 @@
-تمام ✨ هكتبلك دلوقتي نسخة **README.md** جاهزة، تقدر تحطها جنب ملف الكولاب في GitHub.
 
 ---
 
@@ -51,4 +50,3 @@ The workflow includes data cleaning, feature preparation, model training, and ev
 
 ---
 
-تحب أجهزهولك كـ **ملف جاهز للتحميل (README.md)** ولا تفضل تنسخه من هنا وتلصقه مباشرة في الريبو بتاعك؟
